@@ -4,7 +4,7 @@ This is my home page! My name is Kevin Tsai and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/leyonsei.
+My GitHub page is http://github.com/leyonsei
 
 ### CPSC 120
 
